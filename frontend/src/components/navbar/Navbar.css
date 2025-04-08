@@ -1,0 +1,11 @@
+.active-link{
+    /* border: 2px solid rgb(26, 26, 228); */
+    border-radius: 8px;
+    background-color: rgb(108, 108, 241);
+    color: white;
+    /* padding: 2px; */
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-bottom: 2px;
+    padding-bottom: 2px;
+}
